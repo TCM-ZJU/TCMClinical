@@ -1,0 +1,1 @@
+del .\upload\*.*  /Q

@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<script language="JavaScript">
+<!--
+	var str
+	function add()
+	{
+		var res
+		str=str+"<option>"+document.forms["form1"].textfield.value+"</option>";
+		res="haha.innerHTML='<select>"+str+"</select>'";
+		eval(res);
+	}
+-->
+</script>
+</head>
+<body>
+<form name="form1">
+<input type="text" name="textfield">
+<input type="button" name="Submit" value="Submit" onClick="return add()">
+<table>
+<tr>
+<td id="haha">
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+行 199: 控件 datFrom 的类 MSComCtl2.DTPicker 不是一个已加载的控件类。
+行 211: 控件 datTo 的类 MSComCtl2.DTPicker 不是一个已加载的控件类。
+行 256: 控件 ORADC 的类 ORADCLibCtl.ORADC 不是一个已加载的控件类。
+行 279: 控件 grdTable 的类 MSFlexGridLib.MSFlexGrid 不是一个已加载的控件类。
+行 293: 控件 pbImport 的类 MSComctlLib.ProgressBar 不是一个已加载的控件类。
